@@ -1,0 +1,44 @@
+body{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin: 150px;
+
+}
+.container{
+    background-color: black;
+    padding: 30px;
+    border-radius: 15px;
+    padding-top: 8%;
+    box-shadow: 0 5px 8px;
+
+}
+#display{
+    
+    padding: 10px;
+    border-radius: 10px;
+    border: solid black;
+    width: 330px;
+    height: 70px;
+    font-size: 40px;
+    color: white;
+    background-color: rgb(71, 69, 69);
+    text-align: right;
+
+    
+}
+.button{
+    padding: 8px;
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+    font-size: 35px;
+    background-color: rgb(80, 78, 78);
+    color: white;
+    border: solid black;
+    cursor: pointer;
+    margin: 9px;
+}
+#but{
+    background-color: orange;
+}
